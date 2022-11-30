@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 print("Importing helpers from main")
 import helpers
 # import helpers as h
